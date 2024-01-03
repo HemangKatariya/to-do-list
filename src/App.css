@@ -1,0 +1,26 @@
+p{
+  padding: 0;
+  margin: 0;
+}
+
+.centrr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  /* background: rgba(106, 175, 199, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18); */
+}
+
+.taskss {
+  border-radius: 38px;
+  background: #e0e0e0;
+  box-shadow: 29px 29px 58px #9d9d9d, -29px -29px 58px #ffffff;
+}
+
+
+
